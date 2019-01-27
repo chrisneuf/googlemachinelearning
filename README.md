@@ -1,1 +1,1 @@
-Following the Google machine learning tutorials
+Google machine learning tutorials
